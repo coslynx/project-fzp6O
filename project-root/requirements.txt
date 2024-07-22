@@ -1,0 +1,11 @@
+discord.py
+youtube-dl
+spotipy
+soundcloud-python
+requests
+beautifulsoup4
+genius
+musixmatch
+logging
+dotenv
+py-cord
